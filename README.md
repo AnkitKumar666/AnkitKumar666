@@ -51,16 +51,16 @@
 ---
 
 ## 🔥 Featured Projects  
-🚀 **[Project Name](https://github.com/AnkitKumar666/project-repo)** – Short project description  
-🚀 **[Another Project](https://github.com/AnkitKumar666/project-repo)** – Short project description  
-🚀 **[Portfolio Website](https://yourportfolio.com)** – A beautifully crafted personal website  
+🚀 **[Food Website]([https://github.com/AnkitKumar666/project-repo](https://ankitkumar666.github.io/Food-Website/))** – NomNom Express - Responsive Restaurant Website
+🚀 **[Travel & Tour Website]([https://github.com/AnkitKumar666/project-repo](https://ankitkumar666.github.io/Travel_Tour-Website/))** – A beautifully designed Travel & Tour Website that allows users to explore destinations, book trips, and get travel inspiration. 
+🚀 **[E-commerce_Website]( https://ankitkumar666.github.io/E-commerce_Website/)** – StyleHaven E-commerce Website 
 
 ---
 
 ## 🤝 Let's Connect  
 💬 Ask me about **React, Next.js, Node.js, MongoDB**  
 📩 Reach me at **your_email@example.com**  
-📢 Follow me on **[Instagram](https://www.instagram.com/ankitkumar_666)** & **[LinkedIn](https://www.linkedin.com/in/ankitkumar)**  
+📢 Follow me on **[Instagram](https://www.instagram.com/ankitkumar_666)** & **[LinkedIn](https://www.linkedin.com/in/ankitkumar666)**  
 
 🌟 **Star my repositories if you find them useful!** 🌟  
 
