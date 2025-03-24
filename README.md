@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hey there! 👋 I'm Ankit Kumar</h1>
 
