@@ -14,7 +14,7 @@
   <a href="mailto:ankittkumarr666@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://ankitkumar666.github.io/E-commerce_Website/" target="_blank">
+  <a href="https://ankitkr-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
